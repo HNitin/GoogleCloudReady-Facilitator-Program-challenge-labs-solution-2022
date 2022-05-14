@@ -1,0 +1,1 @@
+# GoogleCloudReady-Facilitator-Program-challenge-labs-solution-2022
